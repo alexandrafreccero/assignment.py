@@ -29,4 +29,4 @@ elif 50 < result < 100:
 elif result == 100:
     print("Spot on!")
 else:
-    print("Result is out of range.")
+    print("Result is out of range!")
